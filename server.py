@@ -1,5 +1,6 @@
 '''
-    Simple socket server using threads
+    Simple socket server using threads for chatting
+    under construction
 '''
  
 import socket
